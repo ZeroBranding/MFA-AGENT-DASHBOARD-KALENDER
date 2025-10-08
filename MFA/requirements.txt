@@ -1,0 +1,10 @@
+imap-tools==1.7.2
+ollama==0.3.3
+python-dotenv==1.0.1
+schedule==1.2.2
+icalendar==5.0.13
+python-dateutil==2.9.0.post0
+prometheus-client==0.20.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+websockets>=12.0

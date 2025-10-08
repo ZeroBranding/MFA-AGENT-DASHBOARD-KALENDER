@@ -1,0 +1,287 @@
+2025-09-28 02:09:13,614 - enterprise_error_handler - INFO - Fehler in database.connect: Verbindung zur Datenbank fehlgeschlagen
+2025-09-28 02:09:13,614 - enterprise_error_handler - INFO - Fehler in database.connect: Verbindung zur Datenbank fehlgeschlagen
+2025-09-28 02:09:49,374 - enterprise_error_handler - INFO - Fehler in database.connect: Verbindung zur Datenbank fehlgeschlagen
+2025-09-28 02:09:49,374 - enterprise_error_handler - INFO - Fehler in database.connect: Verbindung zur Datenbank fehlgeschlagen
+2025-09-28 02:09:56,386 - enterprise_error_handler - INFO - Fehler in enterprise_error_handling.failing_function: Test-Fehler
+2025-09-28 02:09:56,386 - enterprise_error_handler - INFO - Fehler in enterprise_error_handling.failing_function: Test-Fehler
+2025-09-28 02:18:02,768 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: patient_management_agent.PatientProfile() got multiple values for keyword argument 'email'
+2025-09-28 02:18:02,768 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: patient_management_agent.PatientProfile() got multiple values for keyword argument 'email'
+2025-09-28 02:18:02,768 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: patient_management_agent.PatientProfile() got multiple values for keyword argument 'email'
+2025-09-28 02:18:02,768 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: patient_management_agent.PatientProfile() got multiple values for keyword argument 'email'
+2025-09-28 02:18:04,778 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: ResponseContext.__init__() got an unexpected keyword argument 'subject'
+2025-09-28 02:18:04,778 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: ResponseContext.__init__() got an unexpected keyword argument 'subject'
+2025-09-28 02:18:04,778 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: ResponseContext.__init__() got an unexpected keyword argument 'subject'
+2025-09-28 02:18:04,778 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: ResponseContext.__init__() got an unexpected keyword argument 'subject'
+2025-09-28 02:18:04,793 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:04,793 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:04,793 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:04,793 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:04,803 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:18:04,803 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:18:04,803 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:18:04,803 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:18:40,823 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:18:40,823 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:18:40,823 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:18:40,823 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:18:40,837 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:40,837 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:40,837 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:40,837 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 02:18:40,845 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:18:40,845 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:18:40,845 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:18:40,845 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 02:21:11,528 - enterprise_error_handler - INFO - Fehler in test_component.test_function: Test-Fehler
+2025-09-28 02:21:11,528 - enterprise_error_handler - INFO - Fehler in test_component.test_function: Test-Fehler
+2025-09-28 02:21:11,528 - enterprise_error_handler - INFO - Fehler in test_component.test_function: Test-Fehler
+2025-09-28 02:21:11,538 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 0
+2025-09-28 02:21:11,538 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 0
+2025-09-28 02:21:11,538 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 0
+2025-09-28 02:21:11,538 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 0
+2025-09-28 02:21:11,546 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 1
+2025-09-28 02:21:11,546 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 1
+2025-09-28 02:21:11,546 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 1
+2025-09-28 02:21:11,546 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 1
+2025-09-28 02:21:11,554 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 2
+2025-09-28 02:21:11,554 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 2
+2025-09-28 02:21:11,554 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 2
+2025-09-28 02:21:11,554 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 2
+2025-09-28 02:21:11,562 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 3
+2025-09-28 02:21:11,562 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 3
+2025-09-28 02:21:11,562 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 3
+2025-09-28 02:21:11,562 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 3
+2025-09-28 02:21:11,570 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 4
+2025-09-28 02:21:11,570 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 4
+2025-09-28 02:21:11,570 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 4
+2025-09-28 02:21:11,570 - enterprise_error_handler - INFO - Fehler in test.test: Test-Fehler 4
+2025-09-28 02:21:11,587 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:21:11,587 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:21:11,587 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:21:11,587 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:21:11,587 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 02:21:11,587 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: name 'asdict' is not defined
+2025-09-28 04:38:55,167 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:38:55,167 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:38:55,177 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:38:55,177 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:38:55,193 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 04:38:55,193 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._update_chat_history: name 'asdict' is not defined
+2025-09-28 04:38:55,201 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 04:38:55,201 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator.process_email_enterprise: name 'asdict' is not defined
+2025-09-28 04:39:47,157 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:39:47,157 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:39:47,166 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:39:47,166 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:40:56,267 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:40:56,267 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:40:56,276 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:40:56,276 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:41:05,763 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:41:05,763 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:41:05,772 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:41:05,772 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:41:16,289 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:41:16,289 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-28 04:41:16,298 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-28 04:41:16,298 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:34,562 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:34,562 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:34,562 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:34,562 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:34,562 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,488 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,488 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,488 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,488 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,488 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,505 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,505 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,505 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,505 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,505 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,516 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,516 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,516 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,516 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,516 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,531 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,531 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,531 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,531 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,531 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:36,554 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,554 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,554 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,554 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:36,554 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,574 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,574 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,574 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,574 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,574 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,589 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:38,589 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:38,589 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:38,589 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:38,589 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:38,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:38,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,284 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,284 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,284 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,284 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,284 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,300 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,300 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,300 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,300 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,300 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,311 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,311 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,311 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,311 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,311 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,326 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,326 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,326 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,326 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,326 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,353 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,353 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,353 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,353 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,353 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,364 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,364 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,364 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,364 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,364 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,379 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,379 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,379 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,379 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,379 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:40,398 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,398 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,398 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,398 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:40,398 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,088 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,088 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,088 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,088 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,088 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,104 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,104 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,104 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,104 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,104 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,117 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,117 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,117 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,117 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,117 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,132 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,132 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,132 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,132 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,132 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,144 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,144 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,144 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,144 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,144 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:15:42,159 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,159 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,159 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,159 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:15:42,159 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:16:48,552 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:16:48,552 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:16:48,552 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:16:48,552 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:16:48,552 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:16:48,568 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:16:48,568 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:16:48,568 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:16:48,568 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:16:48,568 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 18:21:54,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:21:54,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:21:54,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:21:54,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 18:21:54,338 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 19:03:59,222 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 19:03:59,222 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 19:03:59,222 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 19:03:59,222 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 19:03:59,222 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:13:02,079 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:13:02,079 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:13:02,079 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:13:02,079 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:13:02,079 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:13:02,094 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:13:02,094 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:13:02,094 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:13:02,094 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:13:02,094 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:14:18,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:14:18,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:14:18,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:14:18,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:14:18,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 20:14:18,214 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:14:18,214 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:14:18,214 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:14:18,214 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 20:14:18,214 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-29 22:28:14,363 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 22:28:14,363 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 22:28:14,363 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 22:28:14,363 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 22:28:14,363 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:30,425 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:30,425 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:30,425 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:30,425 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:30,425 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:48,324 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:48,324 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:48,324 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:48,324 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:48,324 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:48,333 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:48,333 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:48,333 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:48,333 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:48,333 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:50,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:50,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:50,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:50,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:50,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:50,054 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:50,054 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:50,054 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:50,054 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:50,054 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:09,428 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:09,428 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:09,428 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:09,428 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:09,428 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:09,437 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:09,437 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:09,437 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:09,437 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:09,437 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'

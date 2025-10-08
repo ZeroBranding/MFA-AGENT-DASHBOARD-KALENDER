@@ -1,0 +1,68 @@
+# ===================================================================
+# MFA ENTERPRISE KI-AGENT - UMGEBUNGSVARIABLEN
+# ===================================================================
+# WICHTIG: 
+# 1. Kopieren Sie diese Datei zu ".env"
+# 2. Entfernen Sie alle Kommentare (Zeilen mit #)
+# 3. Passen Sie die Werte an
+# ===================================================================
+
+# Gmail-Konfiguration (WICHTIG!)
+GMAIL_ADDRESS=ihre.email@gmail.com
+GMAIL_APP_PASSWORD=xxxx-xxxx-xxxx-xxxx
+
+# E-Mail-Server
+IMAP_SERVER=imap.gmail.com
+IMAP_PORT=993
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+EMAIL_ADDRESS=ihre.email@gmail.com
+EMAIL_PASSWORD=xxxx-xxxx-xxxx-xxxx
+
+# Ollama LLM
+OLLAMA_MODEL=qwen2.5:3b
+OLLAMA_BASE_URL=http://localhost:11434
+
+# Praxis-Info
+PRACTICE_NAME=Ihre Arztpraxis
+PRACTICE_PHONE=+49-123-456789
+PRACTICE_EMAIL=info@ihre-praxis.de
+PRACTICE_ADDRESS=Musterstraße 123, 12345 Musterstadt
+ONLINE_BOOKING_URL=https://termine.ihre-praxis.de
+
+# System
+CHECK_INTERVAL_SECONDS=60
+MAX_EMAILS_PER_CYCLE=50
+RETRY_DELAY_SECONDS=5
+ENABLE_IMAP_IDLE=true
+AUTO_ADD_BOOKING_LINK=true
+
+# Logging
+LOG_LEVEL=INFO
+LOG_FILE=email_agent.log
+
+# Datenbanken
+CONVERSATIONS_DB_PATH=conversations.db
+PATIENT_PROFILES_DB_PATH=patient_profiles.db
+ADVANCED_CHAT_HISTORY_DB_PATH=advanced_chat_history.db
+SELF_LEARNING_DB_PATH=self_learning.db
+NAME_EXTRACTION_DB_PATH=name_extraction.db
+ERROR_HANDLING_DB_PATH=error_handling.db
+
+# Dashboard API
+DASHBOARD_API_HOST=0.0.0.0
+DASHBOARD_API_PORT=5000
+ALLOWED_ORIGINS=http://localhost:8080,http://127.0.0.1:8080
+
+# Performance
+CACHE_TTL_SECONDS=3600
+MAX_CACHE_ENTRIES=1000
+
+# Sicherheit
+ALLOWED_SENDERS=*
+BLOCKED_SENDERS=
+
+# Debug
+DEBUG_MODE=false
+VERBOSE_LOGGING=false
+

@@ -1,0 +1,14 @@
+groups:
+- name: agent-alerts
+  rules:
+  - alert: MailErrorsSpike
+    expr: increase(mail_errors_total[5m]) > 5
+    for: 2m
+    labels: { severity: "warning" }
+    annotations: { summary: "Mehr als 5 Mail-Fehler in 5m" }
+
+  - alert: HighLatency
+    expr: histogram_quantile(0.95, sum(rate(pipeline_latency_seconds_bucket[5m])) by (le)) > 5
+    for: 10m
+    labels: { severity: "critical" }
+    annotations: { summary: "Pipeline-P95 > 5s für 10m" }

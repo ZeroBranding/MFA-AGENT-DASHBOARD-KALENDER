@@ -1,0 +1,415 @@
+2025-09-29 23:49:44,123 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:44,123 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:44,123 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:44,123 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:49:44,123 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:34,660 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:34,660 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:34,660 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:34,660 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:34,660 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:34,670 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:34,670 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:34,670 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:34,670 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:34,670 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:36,350 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:36,350 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:36,350 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:36,350 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:36,350 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:50:36,359 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:36,359 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:36,359 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:36,359 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:50:36,359 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:03,231 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:03,231 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:03,231 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:03,231 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:03,231 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:03,240 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:03,240 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:03,240 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:03,240 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:03,240 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:04,899 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:04,899 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:04,899 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:04,899 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:04,899 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:04,909 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:04,909 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:04,909 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:04,909 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:04,909 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:44,826 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:44,826 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:44,826 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:44,826 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:44,826 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:44,836 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:44,836 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:44,836 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:44,836 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:44,836 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:46,469 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:46,469 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:46,469 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:46,469 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:46,469 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:51:46,479 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:46,479 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:46,479 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:46,479 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:51:46,479 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:23,083 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:23,083 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:23,083 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:23,083 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:23,083 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: 'PatientManagementAgent' object has no attribute 'update_profile'
+2025-09-29 23:52:23,092 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:23,092 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:23,092 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:23,092 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-29 23:52:23,092 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_response_generation: 'ResponseContext' object has no attribute 'patient_profile'
+2025-09-30 03:18:30,058 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,058 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,058 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,058 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,058 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,084 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,084 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,084 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,084 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,084 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,111 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,111 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,111 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,111 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:18:30,111 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:41:01,421 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:41:01,421 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:41:01,421 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:41:01,421 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 03:41:01,421 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 04:45:55,920 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 04:45:55,920 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 04:45:55,920 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 04:45:55,920 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 04:45:55,920 - enterprise_error_handler - INFO - Fehler in enhanced_email_agent.process_emails: 'NoneType' object has no attribute 'get'
+2025-09-30 04:54:36,993 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:36,993 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:36,993 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:36,993 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:36,993 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:46,369 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:46,369 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:46,369 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:46,369 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:54:46,369 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:05,647 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:05,647 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:05,647 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:05,647 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:05,647 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,233 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,233 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,233 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,233 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,233 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,251 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,251 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,251 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,251 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:55:07,251 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:04,966 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:04,966 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:04,966 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:04,966 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:04,966 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:06,623 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:06,623 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:06,623 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:06,623 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:06,623 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:24,934 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:24,934 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:24,934 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:24,934 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:24,934 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:27,869 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:27,869 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:27,869 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:27,869 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:56:27,869 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:10,540 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:10,540 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:10,540 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:10,540 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:10,540 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:12,858 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:12,858 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:12,858 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:12,858 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:12,858 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:24,827 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:24,827 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:24,827 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:24,827 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:24,827 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:26,430 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:26,430 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:26,430 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:26,430 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:26,430 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:41,930 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:41,930 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:41,930 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:41,930 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:41,930 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:43,615 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:43,615 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:43,615 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:43,615 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:43,615 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:46,317 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:46,317 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:46,317 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:46,317 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:46,317 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:48,027 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:48,027 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:48,027 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:48,027 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:48,027 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:57,537 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:57,537 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:57,537 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:57,537 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:57,537 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:59,147 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:59,147 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:59,147 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:59,147 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 04:57:59,147 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:04:51,347 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:04:51,347 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:04:51,347 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:04:51,347 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:04:51,347 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:05,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:05,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:05,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:05,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:05,198 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:07,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:07,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:07,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:07,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:07,609 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:22,372 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:22,372 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:22,372 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:22,372 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:22,372 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:24,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:24,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:24,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:24,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:24,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:28,154 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:28,154 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:28,154 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:28,154 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:28,154 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:31,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:31,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:31,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:31,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:05:31,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:54,183 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:54,183 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:54,183 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:54,183 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:54,183 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:57,677 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:57,677 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:57,677 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:57,677 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:07:57,677 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:08:06,684 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:08:06,684 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:08:06,684 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:08:06,684 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:08:06,684 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:24,007 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:24,007 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:24,007 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:24,007 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:24,007 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:59,040 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:59,040 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:59,040 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:59,040 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:23:59,040 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:00,700 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:00,700 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:00,700 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:00,700 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:00,700 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:14,301 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:14,301 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:14,301 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:14,301 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:14,301 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:16,114 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:16,114 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:16,114 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:16,114 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:16,114 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:18,498 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:18,498 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:18,498 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:18,498 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:18,498 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:20,159 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:20,159 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:20,159 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:20,159 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:20,159 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,387 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,387 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,387 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,387 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,387 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,429 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,429 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,429 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,429 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:24,429 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:26,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:26,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:26,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:26,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:26,041 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:27,635 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:27,635 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:27,635 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:27,635 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:27,635 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:29,273 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:29,273 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:29,273 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:29,273 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:29,273 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:42,614 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:42,614 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:42,614 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:42,614 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:42,614 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:44,219 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:44,219 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:44,219 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:44,219 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:44,219 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:45,824 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:45,824 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:45,824 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:45,824 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:45,824 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:47,444 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:47,444 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:47,444 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:47,444 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:47,444 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:49,104 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:49,104 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:49,104 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:49,104 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:24:49,104 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:19,140 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:19,140 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:19,140 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:19,140 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:19,140 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:21,579 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:21,579 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:21,579 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:21,579 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:21,579 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:23,959 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:23,959 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:23,959 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:23,959 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:23,959 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:26,405 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:26,405 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:26,405 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:26,405 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:26,405 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:28,724 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:28,724 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:28,724 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:28,724 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:28,724 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:40,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:40,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:40,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:40,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:40,118 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:43,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:43,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:43,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:43,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:43,165 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:45,455 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:45,455 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:45,455 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:45,455 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:45,455 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:46,913 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:46,913 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:46,913 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:46,913 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:46,913 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:47,102 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:47,102 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:47,102 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:47,102 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:47,102 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:48,544 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:48,544 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:48,544 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:48,544 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:48,544 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,009 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,009 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,009 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,009 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,009 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,351 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,351 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,351 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,351 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:50,351 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:52,249 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:52,249 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:52,249 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:52,249 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:52,249 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:55,184 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:55,184 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:55,184 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:55,184 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:55,184 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:57,847 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:57,847 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:57,847 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:57,847 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:25:57,847 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:26:00,143 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:26:00,143 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:26:00,143 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:26:00,143 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group
+2025-09-30 05:26:00,143 - enterprise_error_handler - INFO - Fehler in enterprise_integration_coordinator._process_patient_profile: table patients has no column named age_group

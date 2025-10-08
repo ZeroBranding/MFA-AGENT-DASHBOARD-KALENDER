@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MFA Dashboard - Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            background: #1e293b;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        h1 {
+            font-size: 24px;
+            color: #60a5fa;
+        }
+        
+        .status-badge {
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+        }
+        
+        .status-online {
+            background: #10b981;
+            color: white;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-card {
+            background: #1e293b;
+            padding: 24px;
+            border-radius: 12px;
+            border: 1px solid #334155;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #94a3b8;
+            margin-bottom: 8px;
+        }
+        
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: #60a5fa;
+        }
+        
+        .chart-container {
+            background: #1e293b;
+            padding: 24px;
+            border-radius: 12px;
+            border: 1px solid #334155;
+            margin-bottom: 20px;
+        }
+        
+        .intent-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px;
+            margin-bottom: 8px;
+            background: #0f172a;
+            border-radius: 8px;
+        }
+        
+        .intent-bar {
+            height: 8px;
+            background: #60a5fa;
+            border-radius: 4px;
+            margin-top: 8px;
+        }
+        
+        .activity-feed {
+            background: #1e293b;
+            padding: 24px;
+            border-radius: 12px;
+            border: 1px solid #334155;
+        }
+        
+        .activity-item {
+            padding: 16px;
+            border-bottom: 1px solid #334155;
+        }
+        
+        .activity-item:last-child {
+            border-bottom: none;
+        }
+        
+        .activity-time {
+            color: #94a3b8;
+            font-size: 12px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #94a3b8;
+        }
+        
+        .connection-status {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            padding: 12px 20px;
+            background: #1e293b;
+            border-radius: 8px;
+            border: 1px solid #334155;
+            font-size: 14px;
+        }
+        
+        .ws-connected {
+            color: #10b981;
+        }
+        
+        .ws-disconnected {
+            color: #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1>⚡ MFA Enterprise Dashboard</h1>
+                <p style="color: #94a3b8; margin-top: 4px;">Echtzeit E-Mail-Agent Monitoring</p>
+            </div>
+            <div>
+                <span class="status-badge status-online" id="systemStatus">● ONLINE</span>
+            </div>
+        </header>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-label">E-Mails Heute</div>
+                <div class="stat-value" id="emailsToday">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Gesamt Verarbeitet</div>
+                <div class="stat-value" id="emailsTotal">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Erfolgsrate</div>
+                <div class="stat-value" id="successRate">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Uptime</div>
+                <div class="stat-value" id="uptime" style="font-size: 24px;">-</div>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <h2 style="margin-bottom: 16px;">Intent-Verteilung</h2>
+            <div id="intentChart">
+                <div class="loading">Lade Daten...</div>
+            </div>
+        </div>
+        
+        <div class="activity-feed">
+            <h2 style="margin-bottom: 16px;">Live-Aktivität</h2>
+            <div id="activityFeed">
+                <div class="loading">Warte auf Updates...</div>
+            </div>
+        </div>
+        
+        <div class="connection-status">
+            WebSocket: <span id="wsStatus" class="ws-disconnected">Verbinde...</span>
+        </div>
+    </div>
+    
+    <script>
+        let ws = null;
+        let fallbackInterval = null;
+        
+        // WebSocket Verbindung
+        function connectWebSocket() {
+            try {
+                ws = new WebSocket('ws://localhost:5000/ws');
+                
+                ws.onopen = () => {
+                    console.log('WebSocket verbunden');
+                    document.getElementById('wsStatus').textContent = 'Verbunden';
+                    document.getElementById('wsStatus').className = 'ws-connected';
+                    
+                    // Fallback stoppen wenn WebSocket funktioniert
+                    if (fallbackInterval) {
+                        clearInterval(fallbackInterval);
+                        fallbackInterval = null;
+                    }
+                };
+                
+                ws.onmessage = (event) => {
+                    const stats = JSON.parse(event.data);
+                    updateDashboard(stats);
+                };
+                
+                ws.onerror = (error) => {
+                    console.error('WebSocket Fehler:', error);
+                    startFallback();
+                };
+                
+                ws.onclose = () => {
+                    console.log('WebSocket getrennt');
+                    document.getElementById('wsStatus').textContent = 'Getrennt';
+                    document.getElementById('wsStatus').className = 'ws-disconnected';
+                    
+                    // Reconnect nach 5 Sekunden
+                    setTimeout(connectWebSocket, 5000);
+                    startFallback();
+                };
+            } catch (error) {
+                console.error('WebSocket Connect Fehler:', error);
+                startFallback();
+            }
+        }
+        
+        // Fallback: HTTP Polling
+        function startFallback() {
+            if (!fallbackInterval) {
+                console.log('Starte Fallback-Modus (HTTP Polling)');
+                fallbackInterval = setInterval(async () => {
+                    try {
+                        const response = await fetch('http://localhost:5000/api/stats');
+                        const stats = await response.json();
+                        updateDashboard(stats);
+                    } catch (error) {
+                        console.error('Fallback Fetch Fehler:', error);
+                    }
+                }, 5000);
+            }
+        }
+        
+        // Dashboard Update
+        function updateDashboard(stats) {
+            // System Status
+            if (stats.system) {
+                document.getElementById('uptime').textContent = stats.system.uptime_formatted || '-';
+                
+                const statusBadge = document.getElementById('systemStatus');
+                if (stats.system.idle_mode_active) {
+                    statusBadge.textContent = '⚡ IDLE AKTIV';
+                } else {
+                    statusBadge.textContent = '● ONLINE';
+                }
+            }
+            
+            // E-Mail Stats
+            if (stats.emails) {
+                document.getElementById('emailsToday').textContent = stats.emails.processed_today || 0;
+                document.getElementById('emailsTotal').textContent = stats.emails.total_processed || 0;
+                document.getElementById('successRate').textContent = 
+                    (stats.emails.success_rate_percent || 0).toFixed(1) + '%';
+            }
+            
+            // Intent Chart
+            if (stats.intents) {
+                updateIntentChart(stats.intents);
+            }
+            
+            // Activity Feed
+            if (stats.realtime) {
+                updateActivityFeed(stats.realtime);
+            }
+        }
+        
+        // Intent Chart
+        function updateIntentChart(intents) {
+            const chartDiv = document.getElementById('intentChart');
+            chartDiv.innerHTML = '';
+            
+            const total = Object.values(intents).reduce((a, b) => a + b, 0);
+            
+            for (const [intent, count] of Object.entries(intents)) {
+                const percentage = total > 0 ? (count / total * 100) : 0;
+                
+                const item = document.createElement('div');
+                item.className = 'intent-item';
+                item.innerHTML = `
+                    <div>
+                        <div>${intent}</div>
+                        <div class="intent-bar" style="width: ${percentage}%"></div>
+                    </div>
+                    <div style="font-weight: bold; color: #60a5fa;">${count}</div>
+                `;
+                chartDiv.appendChild(item);
+            }
+        }
+        
+        // Activity Feed
+        function updateActivityFeed(realtime) {
+            const feedDiv = document.getElementById('activityFeed');
+            
+            if (realtime.last_email_processed) {
+                const time = new Date(realtime.last_email_processed).toLocaleTimeString('de-DE');
+                feedDiv.innerHTML = `
+                    <div class="activity-item">
+                        <div class="activity-time">${time}</div>
+                        <div style="margin-top: 8px;">
+                            📧 <strong>${realtime.last_email_intent || 'unknown'}</strong>
+                        </div>
+                        <div style="color: #94a3b8; margin-top: 4px; font-size: 14px;">
+                            ${realtime.last_email_subject || 'Kein Betreff'}
+                        </div>
+                    </div>
+                    <div class="activity-item">
+                        <div style="color: #94a3b8;">
+                            ${realtime.current_activity === 'idle' ? '🟢 Warte auf neue E-Mails...' : '⚙️ Verarbeite...'}
+                        </div>
+                    </div>
+                `;
+            } else {
+                feedDiv.innerHTML = '<div class="loading">Noch keine E-Mails verarbeitet</div>';
+            }
+        }
+        
+        // Start
+        connectWebSocket();
+        startFallback(); // Als Backup sofort starten
+    </script>
+</body>
+</html>
+

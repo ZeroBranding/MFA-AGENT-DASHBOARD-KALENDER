@@ -1,0 +1,38 @@
+# ============================================
+# MFA ENTERPRISE - GPU-BESCHLEUNIGTE VERSION
+# Optimiert für AMD RX 7800 XT + Windows 11
+# ============================================
+
+# Core Dependencies (bestehend)
+fastapi==0.115.0
+uvicorn==0.32.0
+python-dotenv==1.0.1
+requests==2.32.3
+schedule==1.2.2
+
+# ============================================
+# GPU-BESCHLEUNIGUNG (DirectML)
+# ============================================
+
+# PyTorch mit DirectML (für AMD GPU auf Windows)
+torch-directml>=0.2.0
+
+# Whisper STT mit GPU-Support
+openai-whisper>=20231117
+
+# Alternative: faster-whisper (noch schneller!)
+# faster-whisper>=1.0.0
+
+# Audio-Processing
+soundfile>=0.12.1
+librosa>=0.10.0
+
+# ============================================
+# WICHTIG FÜR IHRE HARDWARE:
+# ============================================
+# - torch-directml funktioniert NUR auf Windows
+# - Optimiert für AMD RDNA 3 (RX 7800 XT)
+# - Braucht Windows 10 1903+ oder Windows 11
+# - Automatische GPU-Erkennung
+# ============================================
+

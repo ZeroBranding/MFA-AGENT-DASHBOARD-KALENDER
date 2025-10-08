@@ -1,0 +1,126 @@
+===========================================
+✅ IDLE-MODUS BOMBENSICHER GEMACHT!
+===========================================
+
+INTELLIGENTES RECONNECT-SYSTEM IMPLEMENTIERT!
+
+NEUE RECONNECT-STRATEGIE:
+-------------------------
+
+1️⃣ ERSTE VERBINDUNGSVERLUST:
+   ⏱️ Warte: 10 Sekunden
+   🔌 Versuche: Reconnect
+   💬 Log: "Reconnect in 10 Sekunden... (Versuch 1)"
+
+2️⃣ WENN FEHLGESCHLAGEN - VERSUCH 2-4:
+   ⏱️ Warte: 3 Minuten (180 Sekunden)
+   🔌 Versuche: Reconnect
+   💬 Log: "Reconnect-Versuch X in 3 Minuten..."
+
+3️⃣ AB VERSUCH 5 - PERMANENT:
+   ⏱️ Warte: 3 Minuten (180 Sekunden)
+   🔌 Versuche: Reconnect
+   🔄 Weiter: PERMANENT alle 3 Minuten
+   💬 Log: "Langzeit-Reconnect (Versuch X) in 3 Minuten..."
+
+
+FEHLER-HANDLING VERBESSERT:
+----------------------------
+
+✅ Socket-Fehler (Router-Neustart):
+   - Erkennt: Netzwerk-Probleme
+   - Trennt: Verbindung sauber
+   - Log: "Netzwerk-Problem erkannt"
+   - Startet: Intelligenten Reconnect
+
+✅ IMAP4.abort (Gmail-Timeout):
+   - Erkennt: Gmail hat getrennt
+   - Trennt: Verbindung sauber
+   - Startet: Sofortiger Reconnect
+
+✅ Alle anderen Fehler:
+   - Loggt: Fehlertyp + Details
+   - Trennt: Verbindung sauber
+   - Startet: Intelligenten Reconnect
+
+
+VERBESSERTE LOGS:
+-----------------
+
+🔄 "IDLE: Verbindung verloren! Reconnect in 10 Sekunden... (Versuch 1)"
+🔌 "IDLE: Versuche Verbindung wiederherzustellen... (Versuch X)"
+✅ "IDLE: Verbindung wiederhergestellt nach X Versuchen!"
+❌ "IDLE: Reconnect fehlgeschlagen (Versuch X)"
+🔄 "IDLE: Reconnect-Versuch X in 3 Minuten..."
+🔄 "IDLE: Langzeit-Reconnect (Versuch X) in 3 Minuten..."
+🔄 "Netzwerk-Problem erkannt - Intelligenter Reconnect startet..."
+
+
+SZENARIEN DIE JETZT FUNKTIONIEREN:
+-----------------------------------
+
+✅ Router-Neustart:
+   - Erkennt sofort (Socket-Error)
+   - Wartet 10 Sek
+   - Reconnect erfolgreich
+
+✅ Internet-Ausfall:
+   - Versucht alle 10 Sek / 3 Min
+   - Sobald Internet zurück → Verbindet automatisch
+
+✅ Gmail-Timeout (29 Min):
+   - Normal trennung
+   - Sofort Reconnect
+   - Weiter online
+
+✅ Lange Offline-Zeiten:
+   - Versucht permanent alle 3 Min
+   - NIEMALS aufgeben
+   - Sobald Online → Verbindet
+
+✅ Computer-Standby/Wake:
+   - Verbindung verloren erkannt
+   - 10 Sek Reconnect
+   - Online
+
+
+TECHNISCHE DETAILS:
+-------------------
+
+Datei: MFA/agents/email_agent.py
+
+Neu hinzugefügt:
+- import socket (für Socket-Error Handling)
+- Intelligenter Reconnect-Counter
+- Delay-Logik (10 Sek → 3x 3 Min → permanent 3 Min)
+- Sauberes Connection-Cleanup
+- Spezifisches Error-Handling (Socket, IMAP4.abort, Exception)
+
+
+VORHER:
+-------
+❌ Exponentieller Backoff (1s → 2s → 4s → 8s → 16s → 32s → 60s max)
+❌ Keine spezielle Behandlung für Router-Neustarts
+❌ Generic Error-Handling
+
+
+JETZT:
+------
+✅ Intelligente Delays (10s → 3min → 3min → permanent)
+✅ Spezifisches Netzwerk-Error-Handling
+✅ Sauberes Cleanup bei jedem Fehler
+✅ Permanent Reconnect-Versuche
+✅ Niemals aufgeben!
+
+
+IDLE-MODUS IST JETZT BOMBENSICHER! 💪
+=======================================
+
+Der Agent wird IMMER versuchen sich zu verbinden:
+- Nach 10 Sekunden beim ersten Mal
+- Nach 3 Minuten wenn fehlgeschlagen
+- PERMANENT alle 3 Minuten wenn länger offline
+- Funktioniert auch nach Router-Neustarts
+- Funktioniert bei Internet-Ausfällen
+- Gibt NIEMALS auf!
+

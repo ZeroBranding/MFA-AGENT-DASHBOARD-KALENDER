@@ -1,0 +1,38 @@
+===========================================
+🚨 KRITISCH: ENV-DATEI FEHLT! 
+===========================================
+
+DER AGENT KANN NICHT KORREKT STARTEN OHNE .env DATEI!
+
+BITTE SOFORT ERSTELLEN:
+-----------------------
+
+Schritt 1: Neue Datei erstellen
+Dateiname: .env
+Speicherort: MFA\.env
+
+Schritt 2: Inhalt kopieren
+Öffnen Sie: MFA\.env_VORLAGE.txt
+Kopieren Sie ALLES ab Zeile "# ====..." bis zum Ende
+Fügen Sie in MFA\.env ein
+
+Schritt 3: Speichern
+
+FERTIG!
+-------
+
+Die .env Datei enthält:
+✅ Ihre Gmail-Zugangsdaten
+✅ IMAP IDLE Aktivierung (Sofortige E-Mails!)
+✅ Dashboard-API Konfiguration
+✅ Alle Performance-Einstellungen
+
+OHNE DIESE DATEI:
+❌ Agent nutzt falsche Defaults
+❌ Kein IMAP IDLE (langsam!)
+❌ Keine Gmail-Verbindung
+❌ Dashboard-API funktioniert nicht
+
+WICHTIG:
+Die Datei MUSS ".env" heißen (NICHT .env.txt!)
+

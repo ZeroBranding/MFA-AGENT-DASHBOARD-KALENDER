@@ -1,0 +1,132 @@
+===========================================
+🚀 GCZ PRAXIS - KOMPLETT-SETUP
+===========================================
+
+WICHTIG: DIESE SCHRITTE IN GENAU DIESER REIHENFOLGE!
+
+===========================================
+SCHRITT 1: Backend ENV erstellen (KRITISCH!)
+===========================================
+
+Datei erstellen: MFA\.env
+
+So geht's:
+1. Rechtsklick in MFA-Ordner → "Neu" → "Textdokument"
+2. Name: ".env" (OHNE .txt!)
+3. Öffnen Sie: MFA\.env_VORLAGE.txt
+4. Kopieren Sie ALLES (Ctrl+A, Ctrl+C)
+5. Fügen Sie in MFA\.env ein (Ctrl+V)
+6. Speichern (Ctrl+S)
+
+OHNE DIESE DATEI FUNKTIONIERT DER AGENT NICHT!
+
+===========================================
+SCHRITT 2: Dashboard ENV erstellen
+===========================================
+
+Datei erstellen: gcz-praxis-dashboard\.env.development
+
+So geht's:
+1. Rechtsklick in gcz-praxis-dashboard-Ordner → "Neu" → "Textdokument"
+2. Name: ".env.development" (OHNE .txt!)
+3. Öffnen Sie: gcz-praxis-dashboard\env_development_VORLAGE.txt
+4. Kopieren Sie den Inhalt
+5. Fügen Sie in .env.development ein
+6. Speichern
+
+===========================================
+SCHRITT 3: System starten
+===========================================
+
+Option A - ALLES AUF EINMAL (EMPFOHLEN):
+-----------------------------------------
+Doppelklick auf: KOMPLETT_START.bat
+
+Startet Backend + Dashboard zusammen!
+
+
+Option B - EINZELN STARTEN:
+---------------------------
+1. Erst Backend:
+   cd MFA
+   START_AGENT.bat
+
+2. Warten bis "✅ IDLE-Modus aktiv!" erscheint
+
+3. Dann Dashboard:
+   cd gcz-praxis-dashboard
+   START_DASHBOARD.bat
+
+
+===========================================
+SCHRITT 4: Prüfen ob alles läuft
+===========================================
+
+1. Backend-Check:
+   Öffnen Sie: http://localhost:5000/api/health
+   Sollte zeigen: {"status":"healthy"...}
+
+2. Dashboard-Check:
+   Browser öffnet automatisch: http://localhost:8080
+   Sollte Dashboard mit Daten zeigen
+
+3. E-Mail-Test:
+   Senden Sie eine Test-E-Mail an: liyana240425@gmail.com
+   Agent sollte sofort reagieren (< 1 Sekunde)
+
+
+===========================================
+PROBLEMBEHEBUNG
+===========================================
+
+Problem: "ENV nicht gefunden"
+-----------------------------
+→ Haben Sie .env Dateien erstellt? (OHNE .txt!)
+→ Sind sie im richtigen Ordner?
+  - MFA\.env
+  - gcz-praxis-dashboard\.env.development
+
+
+Problem: Agent startet langsam
+-------------------------------
+→ Prüfen Sie MFA\.env Datei
+→ ENABLE_IMAP_IDLE sollte "True" sein
+
+
+Problem: Dashboard zeigt keine Daten
+------------------------------------
+→ Backend läuft nicht → Starten Sie MFA\START_AGENT.bat
+→ Prüfen Sie http://localhost:5000/api/health
+
+
+Problem: E-Mails werden nicht bearbeitet
+-----------------------------------------
+→ Prüfen Sie Gmail-Zugangsdaten in MFA\.env
+→ GMAIL_ADDRESS und GMAIL_APP_PASSWORD korrekt?
+
+
+===========================================
+NÄCHSTE SCHRITTE
+===========================================
+
+Wenn alles läuft:
+1. ✅ Senden Sie Test-E-Mail
+2. ✅ Prüfen Sie Agent-Reaktion
+3. ✅ Sehen Sie Dashboard-Updates
+4. ✅ System ist produktionsbereit!
+
+
+WICHTIG:
+--------
+- Backend MUSS ZUERST laufen (Port 5000)
+- Dann erst Dashboard starten (Port 8080)
+- Beide müssen gleichzeitig laufen für volle Funktionalität
+
+
+SUPPORT:
+--------
+Siehe Dokumentation in:
+- MFA/README.md
+- gcz-praxis-dashboard/README.md
+- gcz-praxis-dashboard/API_CONNECTION_GUIDE.md
+
